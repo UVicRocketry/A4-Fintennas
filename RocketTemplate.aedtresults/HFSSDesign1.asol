@@ -1,0 +1,44 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002026, month=000000000011, day=000000000016, hour=000000000013, min=000000000002, sec=000000000018)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000001549, lin=000000000027, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'SolutionBlock1'
+	ProductName=''
+	CircuitName='HFSSDesign1'
+	VersionID=337
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=350
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='copperThickness=\'0.035000000000000003mm\' epoxyThickness=\'3.1749999999999998mm\' finLength=\'203.40000000000001in\' finWidth=\'25.399999999999999mm\' fuselageLength=\'254mm\' fuselageOD=\'152.40000000000001mm\' fuselageWallThickness=\'6.3499999999999996mm\' substrateHeight=\'0.80000000000000004mm\' tabLength=\'10mm\'', ID=207)
+		Map(V='copperThickness=\'0.035000000000000003mm\' epoxyThickness=\'3.1749999999999998mm\' finLength=\'5.9999999999999991in\' finWidth=\'25.399999999999999mm\' fuselageLength=\'254mm\' fuselageOD=\'152.40000000000001mm\' fuselageWallThickness=\'6.3499999999999996mm\' substrateHeight=\'0.80000000000000004mm\' tabLength=\'10mm\'', ID=210)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	MeshAssemVersionID=84
+	$begin 'NextAssemVersionID'
+		NextUniqueID=89
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'MI'
+	$end 'MI'
+	VersionID2=338
+$end 'SolutionBlock1'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock1'
+$end 'BlockMapName'
+$begin '$index$'
+	$begin '$index$'
+		BlockMapName(pos=1478, lin=24, lvl=0)
+		SolutionBlock1(pos=370, lin=1, lvl=0)
+		$base_index$(pos=0, lin=1, lvl=0)
+		$index$(pos=1549, lin=27, lvl=0)
+	$end '$index$'
+$end '$index$'
