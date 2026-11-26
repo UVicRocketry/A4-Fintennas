@@ -1,0 +1,22 @@
+G3dErrFileVersion 2025R1
+FlagFileMetaData Begin
+   Low Quality elements and low altitude elements at the end of QImprove process :Title    
+   At the end of QImprove process these elements still remain. :ToolTip  
+   Classic :Author   
+   1795333251 :TimeStamp
+   mm :UnitName 
+   1.0000000000000000e-03 :UnitConv
+FlagFileMetaData End
+BEGIN_ERR 
+26 Low quality, low aspect ratio, low altitude elements.
+ Low quality, low aspect ratio, low altitude elements. 
+ INFO: Found 0 inverted tets, 1 low aspect ratio tets and 0 low altitude tets in body 6 fuselage 
+1 -1  # nfids, fids[]
+1 6  # nbids, bids[]
+      1 0 0 0 #ntets ntri ned npts
+          -3.7600100131245109e-02  -7.9375000000000000e+01  -2.3934998417533775e+00 #xyz tv0
+          -1.2922019495924186e-01  -7.9375000000000000e+01  -4.3362992606873787e+00 #xyz tv1
+          -3.7407664239474954e-02  -7.6200000000000003e+01  -2.3812500000000001e+00 #xyz tv2
+          -1.0886017388635304e-01  -8.6871527777777771e+01  -3.9045660564798217e+00 -1 6 #xyz tv3 fid bid
+   0   0.000000000000e+00   0.000000000000e+00   0.000000000000e+00 #flag location
+END_ERR 
